@@ -1,0 +1,29 @@
+.pag2{
+	font-family:courier,arial,helvetica;
+	text-align:left;
+	color:#ffffff;
+	height:100px;
+	width:50px;
+	margin-left:5em;
+	margin-top:0.5cm;
+	 margin-bottom: 2mm;
+}
+.edittext{
+	font-family:courier,arial,helvetica;
+	font-size: 20px;
+	margin-left:5em;
+	margin-top:0.5cm;
+}
+.edittext2{
+	font-family:courier,arial,helvetica;
+	font-size: 20px;
+	margin-left:5em;
+	margin-top:0.5cm;
+	text-align:justify;
+}
+.pag2s{
+margin-left:45em;
+
+	
+}
+
